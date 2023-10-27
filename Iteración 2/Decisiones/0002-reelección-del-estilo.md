@@ -5,7 +5,7 @@
 
 ## Context and Problem Statement
 
-Nos hemos dado cuenta de que la decisión 0001-selección-del-estilo no es acertada. Consideramos que el estilo cliente servidor se adapta mejor a la arquitectura a diseñar.
+Hemos invalidado la decisión 0001-selección-del-estilo debido a que el estilo cliente servidor se adapta mejor a la arquitectura a diseñar, pues presenta una serie de ventajas respecto al MVC.
 
 ## Decision Drivers
 
