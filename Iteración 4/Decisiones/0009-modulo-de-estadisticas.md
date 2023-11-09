@@ -17,7 +17,7 @@ El sistema cuenta con un módulo de estadísticas que proporciona información v
 
 ## Decision Outcome
 
-Chosen option: "Patrón Observer", because permite resolver el problema de diseño de forma adecuada, notificando a los módulos de estadísticas cuando cambia algo en los
+Chosen option: "Patrón Observer", because permite resolver el problema de diseño de forma adecuada, notificando a los módulos de estadísticas cuando cambia algo en los objetos observados.
 
 ## Pros and Cons of the Options
 
