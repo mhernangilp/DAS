@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-	<b><i>Unix mecanism</i></b><br>
+	<b><i>Designing the architecture of a microservice</i></b><br>
 </p>
 
 <h3 align="center">
